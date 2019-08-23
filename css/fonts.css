@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "brownpro";
+    src: url("../fonts/BROWNPRO-REGULAR.OTF");
+}
+
+@font-face {
+    font-family: "poppins";
+    src: url("../fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: "halvetica1";
+    src: url("../fonts/HelveticaNeueLTStd-BlkCn.otf");
+}
+
+@font-face {
+    font-family: "halvetica2";
+    src: url("../fonts/HelveticaNeueLTStd-MdCn.otf");
+}
+
+@font-face {
+    font-family: "halvetica3";
+    src: url("../fonts/HelveticaNeue\ BlackCond.ttf");
+}
+
+@font-face {
+    font-family: "bodoni";
+    src: url("../fonts/Bodoni\ Poster.otf");
+}
+
+@font-face {
+    font-family: "josefine";
+    src: url("../fonts/JosefinSans-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "scriptorama";
+    src: url("../fonts/Scriptorama\ Tradeshow\ JF\ Regular.ttf");
+}
